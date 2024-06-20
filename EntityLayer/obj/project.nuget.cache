@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQof8r09ExAc7NJweKb9TpvRx4ILGtLHM7dYZT1D8/D5wW0O/l1EPvvkOmRQVlq2wEVhQdmOLWlLQyf/UpBdtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elsha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\elsha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\elsha\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

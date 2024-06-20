@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ProductViewDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header" style="display:flex;justify-content:space-between">
+                <h5 class="card-title mb-0">Products Table</h5>
+                <a class="btn btn-primary text-white" asp-action="Create"><i class="ri-add-fill"></i></a>
+            </div>
+            <div class="card-body">
+                <table id="example" class="table table-bordered dt-responsive nowrap table-striped align-middle" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Category</th>
+                            <th>Brand</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var product in Model)
+                        {
+                            <tr>
+                                <td>@product.Id</td>
+                                <td>@product.Name</td>
+                                <td>@product.Price</td>
+                                <td>@product.Category</td>
+                                <td>@product.Brand</td>
+                                <td>
+                                    @if (!product.IsDeactive)
+                                    {
+                                        <span class="border-success text-success">Aktiv</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="border-danger text-danger">Passiv</span>
+                                    }
+                                </td>
+                                <td>
+                                    <div class="dropdown d-inline-block">
+                                        <button class="btn btn-soft-secondary btn-sm dropdown" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <i class="ri-more-fill align-middle"></i>
+                                        </button>
+                                        <ul class="dropdown-menu dropdown-menu-end" style="">
+                                            <li><a asp-action="ShowImage" class="dropdown-item" asp-route-id="@product.Id"><i class="ri-eye-fill align-bottom me-2 text-muted"></i> View</a></li>
+                                            <li><a class="dropdown-item edit-item-btn" asp-route-id="@product.Id" asp-action="Update"><i class="ri-pencil-fill align-bottom me-2 text-muted"></i> Edit</a></li>
+                                            <li>
+                                                <a class="dropdown-item remove-item-btn" asp-route-id="@product.Id" asp-action="Delete">
+                                                    <i class="ri-delete-bin-fill align-bottom me-2 text-muted"></i> Delete
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

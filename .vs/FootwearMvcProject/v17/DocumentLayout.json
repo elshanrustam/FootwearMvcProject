@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|c:\\users\\elsha\\onedrive\\documents\\backend projects\\footwearmvcproject\\footwearmvcproject\\areas\\adminarea\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A84D71A-471D-4391-BFD6-C34D5C678AB8}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\dataaccesslayer\\concrete\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A84D71A-471D-4391-BFD6-C34D5C678AB8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A84D71A-471D-4391-BFD6-C34D5C678AB8}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\dataaccesslayer\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A84D71A-471D-4391-BFD6-C34D5C678AB8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\areas\\adminarea\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\areas\\adminarea\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\extensions\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\extensions\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FFDB6-7717-455D-BCC9-786E6AB31365}|EntityLayer\\EntityLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\entitylayer\\concrete\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FFDB6-7717-455D-BCC9-786E6AB31365}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12FFDB6-7717-455D-BCC9-786E6AB31365}|EntityLayer\\EntityLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\entitylayer\\concrete\\classes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12FFDB6-7717-455D-BCC9-786E6AB31365}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\classes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\businesslogiclayer\\dtos\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971B8B9-61F3-4170-ACAE-EA47E13CAC57}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dtos\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\footwearmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E619934B-7CF4-48B1-8C35-7A4F7FDDE93A}|FootwearMvcProject\\FootwearMvcProject.csproj|solutionrelative:footwearmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAEwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:43:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwEkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:39:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:03:00.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:04:07.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Update.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Update.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Update.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Update.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:46:52.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:55:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:45:00.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductAddDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\ProductAddDto.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductAddDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\ProductAddDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:04:05.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\DataAccessLayer\\Concrete\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Common\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\DataAccessLayer\\Concrete\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Common\\GenericRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:41:50.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\DataAccessLayer\\Concrete\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\DataAccessLayer\\Concrete\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:41:45.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:12:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:15:50.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:27:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAJIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:27:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:28:03.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:13:55.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FootwearMvcProject\\Areas\\AdminArea\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T11:21:56.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\EntityLayer\\Concrete\\Classes\\Brand.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Classes\\Brand.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\EntityLayer\\Concrete\\Classes\\Brand.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Classes\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:11:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImageExtension.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Extensions\\ImageExtension.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Extensions\\ImageExtension.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Extensions\\ImageExtension.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Extensions\\ImageExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:11:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductImageDto.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Dtos\\ProductImageDto.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\BusinessLogicLayer\\Dtos\\ProductImageDto.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Dtos\\ProductImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:04:01.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\EntityLayer\\Concrete\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\EntityLayer\\Concrete\\Classes\\Product.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Classes\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:03:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FootwearMvcProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\FootwearMvcProject\\FootwearMvcProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FootwearMvcProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:02:54.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
